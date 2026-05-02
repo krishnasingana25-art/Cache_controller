@@ -1,4 +1,6 @@
-module mc_scheduler;
+// single bank dram controller scheduler 
+
+module Dram_scheduler;
 
 `timescale 1ps/1ps
 
